@@ -1,0 +1,78 @@
+* {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    border-radius: 4px;
+    margin: 0 auto;
+}
+
+div {
+    box-shadow: 4px 4px 4px rgb(0, 0, 0, 0.5);
+    margin: 2px
+}
+
+.header {
+    background-color: aqua;
+    position: relative;
+    width: 84vw;
+    height: 10vh;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-top: 30px;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.nav {
+    background-color: antiquewhite;
+    position: relative;
+    top: 20px;
+    padding-left: 10px;
+}
+
+.article {
+    background-color: gray;
+    position: fixed;
+    width: 46vw;
+    height: 76vh;
+    margin-top: 20px;
+    margin-left: 8vw;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 10px;
+}
+
+.section {
+    background-color: orange;
+    height: 19vh;
+    margin-top: 4vh;
+    padding-left: 10px;
+}
+
+.aside {
+    background-color: darkorchid;
+    position: absolute;
+    width: 30vw;
+    height: 76vh;
+    margin-right: 8vw;
+    margin-left: 62vw;
+    padding-right: 30px;
+    padding-left: 30px;
+    top: 15vh;
+}
+
+.footer {
+    background-color: aqua;
+    position: absolute;
+    width: 84vw;
+    height: 5vh;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    bottom: 20px;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
